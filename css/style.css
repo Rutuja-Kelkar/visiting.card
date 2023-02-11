@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: black;
+    /* border: 10px solid purple; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.MainSection{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 35px;
+    background-color: darkgray;
+}
+
+.CardSection{
+    width: 700px;
+    height: 500px;
+    background-color: red;
+    margin: auto;
+    border: 6px solid black;
+    border-radius: 5%;
+}
+
+
+.ContentSection{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+h1{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.InformationSection{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    height: 250px;
+    width:100%;
+
+}
+
+.ContactSection{
+    background-color: darkred;
+    color: rgb(229, 226, 226);
+    width:100% 
+}
+
+#address{
+    padding: 30px;
+    font-size: large;
+    letter-spacing: 2px;
+}
+
+#chrisImage{
+    height: 250px;
+}
+
+.FooterSection{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+
+
+
+
+
